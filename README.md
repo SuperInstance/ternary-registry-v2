@@ -80,3 +80,11 @@ Upgrades `ternary-registry` (which provides basic skill tracking by tier). Relat
 ## License
 
 MIT
+
+## See Also
+- **ternary-registry** — related
+- **ternary-database** — related
+- **ternary-archive** — related
+- **ternary-beacon** — related
+- **ternary-protocol** — related
+
